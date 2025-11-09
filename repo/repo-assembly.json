@@ -1,0 +1,16 @@
+{
+  "assembly_metadata_version": 1,
+  "runtimes": [
+    {
+      "image_identifier": "docker.repository.cloudera.com/cloudera/cdsw/ml-runtime-workbench-python3.9-standard:2024.02.1-b4",
+      "runtime_metadata_version": 1,
+      "editor": "Workbench",
+      "kernel": "Python 3.9",
+      "edition": "Standard (2024.02.1-b4 pinned)",
+      "description": "Workbench Py3.9 2024.02.1-b4",
+      "full_version": "2024.02.1-b4",
+      "short_version": "2024.02",
+      "maintenance_version": 1
+    }
+  ]
+}
